@@ -1,0 +1,15 @@
+{
+  "name": "testing-backend",
+  "version": "1.0.0",
+  "description": "This is where I will be testing everything I need to do for js server-side programming",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luvuyo Sono",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.0"
+  }
+}
